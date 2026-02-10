@@ -24,7 +24,7 @@ View the interactive webpage with logo animations here:
  https://navyasreeeee10.github.io/amber-brew-logo/
 
 
-*(Hover over the logo for glow effects, click to see spinning animation.)*
+
 
 ---
 
