@@ -1,0 +1,130 @@
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+    overflow: hidden;
+    text-align: center;
+    background: linear-gradient(135deg, #fff8e1, #ffe082, #ffcc80); /* citrus + coffee tones */
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Sun animation */
+.sun {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    width: 150px;
+    height: 150px;
+    background: radial-gradient(circle, #ffd54f, #ffb300);
+    border-radius: 50%;
+    transform: translateX(-50%);
+    box-shadow: 0 0 60px #ffca28;
+    animation: sunGlow 4s ease-in-out infinite alternate;
+    z-index: 0;
+}
+
+@keyframes sunGlow {
+    0% { box-shadow: 0 0 50px #ffca28; }
+    100% { box-shadow: 0 0 80px #ffc107; }
+}
+
+/* Ocean waves */
+.waves {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 120px;
+    background: repeating-linear-gradient(
+        135deg,
+        #80deea,
+        #80deea 20px,
+        #4dd0e1 40px
+    );
+    animation: waveMove 6s linear infinite;
+    z-index: 0;
+}
+
+@keyframes waveMove {
+    0% { background-position: 0 0; }
+    100% { background-position: 200px 0; }
+}
+
+/* Logo container */
+.logo-container {
+    animation: float 4s ease-in-out infinite; /* subtle vertical floating */
+    position: relative;
+    z-index: 1;
+}
+
+/* Logo Image */
+.logo {
+    width: 400px;
+    max-width: 90vw;
+    transition: transform 0.5s ease;
+}
+
+/* Floating Animation */
+@keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+}
+
+/* Tagline */
+.tagline {
+    font-size: 2rem;
+    color: #ff8c00;
+    margin-top: 20px;
+    animation: glowText 2.5s ease-in-out infinite alternate;
+}
+
+/* Glow animation for tagline */
+@keyframes glowText {
+    from { text-shadow: 0 0 5px #ffa500; }
+    to { text-shadow: 0 0 20px #ff4500; }
+}
+
+/* Description */
+.description {
+    font-size: 1.2rem;
+    color: #5c3a00;
+    max-width: 600px;
+    margin: 20px auto 0;
+    line-height: 1.5;
+}
+
+/* Floating coffee beans and citrus slices container */
+.floating-elements {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 0;
+}
+
+/* Coffee bean style */
+.bean, .citrus {
+    position: absolute;
+    border-radius: 50%;
+}
+
+/* Coffee bean */
+.bean {
+    width: 12px;
+    height: 6px;
+    background: #6b3e26;
+    opacity: 0.7;
+}
+
+/* Citrus slice */
+.citrus {
+    width: 20px;
+    height: 20px;
+    background: radial-gradient(circle at 30% 30%, #fff176, #fdd835);
+    border: 2px solid #fbc02d;
+    opacity: 0.8;
+}
