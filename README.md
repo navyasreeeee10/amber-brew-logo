@@ -67,13 +67,13 @@ View the interactive webpage with logo animations here:
 ---
 
 ## 👩‍🎨 Creator
-**Navya**  
+**Navya Sree.D**  
 - Digital painting and logo design  
 - Frontend implementation (HTML/CSS/JS)
 
 ---
 
-## 💡 Notes / Tips
+
 - Keep all project files together for proper functionality  
 - Test on **desktop and mobile browsers** to view animations and responsiveness  
 - Can be enhanced further by:
