@@ -21,7 +21,7 @@ The project demonstrates a **creative integration of digital art and frontend we
 
 ## 🌐 Live Preview
 View the interactive webpage with logo animations here:  
-https://navyasreeeee10.github.io/amber-brew-logo/
+file:///C:/Users/user/Desktop/New%20folder/index.html
 
 *(Hover over the logo for glow effects, click to see spinning animation.)*
 
