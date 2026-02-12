@@ -1,76 +1,65 @@
-# Amber Brew – Café Logo & Web Presentation
+# ☕ Amber Brew – Café Logo & Interactive Web Presentation
 
-## ☕ Project Overview
-**Amber Brew** is a café logo concept created as a **hand-painted digital artwork in Krita** and presented as an interactive webpage using **HTML, CSS, and JavaScript**.  
+## 🌅 Overview
+**Amber Brew** is a creative café branding concept that combines **hand-painted digital artwork** with **interactive frontend web design**.
 
-The project demonstrates a **creative integration of digital art and frontend web design**, representing warmth, freshness, and a welcoming café experience.  
+The logo was digitally painted in **Krita** and transformed into a responsive and animated webpage using **HTML, CSS, and JavaScript**.
 
-**Tagline:**  
-> *“Sip the Sunshine”*
+This project demonstrates the integration of **digital illustration and web development**, creating a warm, welcoming, and visually engaging café identity.
 
----
-
-## 🎨 Design Concept
-- The logo is inspired by an **orange symbol**, representing:
-  - Energy, warmth, and positivity
-  - Freshness and natural taste
-  - A bright, inviting café atmosphere
-- Created in **Krita**, maintaining an **artisanal and handcrafted style**.
+> ✨ *“Sip the Sunshine”*
 
 ---
 
-## 🌐 Live Preview
-View the interactive webpage with logo animations here:  
- https://navyasreeeee10.github.io/amber-brew-logo/
+## 🎨 Design Inspiration
 
+The logo is inspired by an **orange fruit**, symbolizing:
 
+- 🌞 Energy and warmth  
+- 🍊 Freshness and natural taste  
+- ☕ A cozy and inviting café atmosphere  
 
+The handcrafted painting style enhances the brand’s artisanal and friendly personality.
+
+---
+
+## 🌐 Live Demo
+
+🔗 **View the interactive webpage here:**  
+https://navyasreeeee10.github.io/amber-brew-logo/
+
+---
+
+## 🖼 Logo Preview
+
+<img src="amber_brew_logo.png" alt="Amber Brew Café Logo" width="300">
+
+> Ensure `amber_brew_logo.png` is placed in the root directory of the repository.
+
+---
+
+## ✨ Features
+
+- 🎨 Hand-painted digital logo (created in Krita)  
+- 🌟 Hover animation (glow + subtle rotation)  
+- 🔄 Click animation (spin + scale effect)  
+- 📱 Fully responsive layout  
+- 💡 Clean and minimal design  
+- 🌐 Cross-browser compatibility  
+
+---
+
+## 🛠 Technologies Used
+
+- **Krita** – Digital painting and logo creation  
+- **HTML5** – Webpage structure  
+- **CSS3** – Styling, layout, and animations  
+- **JavaScript** – Interactive logo functionality  
 
 ---
 
 ## 📂 Project Structure
 
----
 
-## ⚙️ How to Run
-1. **Clone or download** the repository.
-2. Ensure all files are **in the same folder**.
-3. Open `index.html` in any modern **web browser** (Chrome, Firefox, Edge, Safari).
-4. Interact with the logo:
-   - **Hover:** glow and slight rotation
-   - **Click:** spin and scale animation
-
----
-
-## ✨ Features
-- **Professional café layout** with centered logo and tagline  
-- **Interactive logo**: hover and click animations  
-- **Floating and glowing visual effects**  
-- Fully **responsive and browser-friendly**  
-- **Clean and minimal design** emphasizing the hand-painted logo  
-
----
-
-## 🛠 Technologies Used
-- **Krita** – digital logo painting  
-- **HTML5** – webpage structure  
-- **CSS3** – styling, animations, visual effects  
-- **JavaScript** – logo interactivity  
-
----
-
-## 🎓 Academic / Portfolio Use
-- Combines **digital art and web development skills**  
-- Suitable for **college projects, creative portfolios, or personal branding**  
-- Demonstrates ability to **turn a hand-painted design into an interactive web presentation**
-
----
-
-## 👩‍🎨 Creator
-**Navya Sree.D**  
-- Digital painting and logo design  
-- Frontend implementation (HTML/CSS/JS)
-
----
 
 
