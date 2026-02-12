@@ -56,9 +56,9 @@ https://navyasreeeee10.github.io/amber-brew-logo/
 - **CSS3** – Styling, layout, and animations  
 - **JavaScript** – Interactive logo functionality  
 
-*👩‍🎨 Creator*
+## 👩‍🎨 Creator
 
-Navya Sree.D
+- Navya Sree.D
 
 
 
