@@ -74,9 +74,3 @@ View the interactive webpage with logo animations here:
 ---
 
 
-- Keep all project files together for proper functionality  
-- Test on **desktop and mobile browsers** to view animations and responsiveness  
-- Can be enhanced further by:
-  - Adding **sun rays or background gradient**
-  - Including **coffee beans or subtle particle effects**
-  - Upgrading to **SVG logo** for scalable animations
