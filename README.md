@@ -42,7 +42,6 @@ https://navyasreeeee10.github.io/amber-brew-logo/
 
 - 🎨 Hand-painted digital logo (created in Krita)  
 - 🌟 Hover animation (glow + subtle rotation)  
-- 🔄 Click animation (spin + scale effect)  
 - 📱 Fully responsive layout  
 - 💡 Clean and minimal design  
 - 🌐 Cross-browser compatibility  
