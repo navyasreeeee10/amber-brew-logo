@@ -34,7 +34,7 @@ https://navyasreeeee10.github.io/amber-brew-logo/
 
 <img src="amber_brew_logo.png" alt="Amber Brew Café Logo" width="300">
 
-> Ensure `amber_brew_logo.png` is placed in the root directory of the repository.
+
 
 ---
 
